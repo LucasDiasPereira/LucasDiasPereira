@@ -1,7 +1,6 @@
-## Lucas aqui, 
-🟪Estou cursando Analise e desenvolvimento de sistemas.
-
-📫Contato: lucasleonidasdias@hotmail.com
+### Olá eu sou o Lucas 👋
+- 🔭 Estou estudando análise e desenvolvimento de sistemas
+- 📫 Contato através de lucasleonidasdias@hotmail.com
 
 <div align="center">
   <a href="https://github.com/LucasDiasPereira">
