@@ -1,11 +1,11 @@
 ## Lucas aqui, 
-🟪Estou cursando Analise e desenvolvimento de sistemas.
-📫Contato: lucasleonidasdias@hotmail.com
+-🟪Estou cursando Analise e desenvolvimento de sistemas.
+-📫Contato: lucasleonidasdias@hotmail.com
 
 <div align="center">
   <a href="https://github.com/LucasDiasPereira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasDiasPereira&show_icons=true&theme=mmotkim&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDiasPereira&layout=compact&langs_count=7&theme=mmotkim"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasDiasPereira&show_icons=true&theme=Mmotkim&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDiasPereira&layout=compact&langs_count=7&theme=Mmotkim"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
